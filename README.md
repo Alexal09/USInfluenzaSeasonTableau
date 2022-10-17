@@ -13,3 +13,15 @@ US census population from the US census bureau
 Influenza visits from the cdc:https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
 
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fimages.careerfoundry.com%2Fpublic%2Fcourses%2Fdata-immersion%2FA1-A2_Influenza_Project%2FCDC_Influenza_Visits.xlsx&wdOrigin=BROWSELINK
+
+Documents you fill find:
+
+Project brief
+
+Census data set
+
+Statistical analysis
+
+Interim report
+
+Final presentation script
