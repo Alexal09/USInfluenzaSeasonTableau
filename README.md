@@ -25,3 +25,5 @@ Statistical analysis
 Interim report
 
 Final presentation script
+
+and the tableau presentation: https://public.tableau.com/app/profile/alexandra.lindsay1619/viz/Staffingforthe2018InfluenzaSeason/Staffingforthe2018InfluenzaSeason
